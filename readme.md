@@ -1,5 +1,5 @@
 
-# Longest Prefix Finder using Trie and Goroutines
+# Longest Prefix Finder
 
 Finding the longest prefix string for a given input string from a set of prefixes is a common task in text processing. This project demonstrates how to efficiently accomplish this using a Trie data structure and goroutines in Go.
 
