@@ -43,8 +43,13 @@ To run this project, you need to have [Go](https://golang.org/) installed on you
 3. Build the executable:
 
    ```bash
-   go build -o longest-prefix-finder main.go
+   go build
    ```
+4. Run the exe: 
+
+    ```bash
+    ./longest-prefix-finder
+    ```
 
 ## Usage
 
