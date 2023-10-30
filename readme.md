@@ -31,7 +31,7 @@ To run this project, you need to have [Go](https://golang.org/) installed on you
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/longest-prefix-finder.git
+   git clone https://github.com/Ishhyoboytarun/longest-prefix-finder.git
    ```
 
 2. Navigate to the project directory:
